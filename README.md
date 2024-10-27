@@ -40,8 +40,7 @@ A powerful PHP script that automatically generates SEO-friendly sitemap.xml and 
 
 1. Create a new file (e.g., `sitemap-admin.php`) and paste the script code
 2. Set up authentication:
-   - Create a `login.php` file (not included)
-   - Implement your preferred authentication method
+   - Change the password from admin to something you like
 3. Access the admin interface through your browser
 4. Select/deselect files and folders as needed
 5. Click "Generate Sitemap & robots.txt"
